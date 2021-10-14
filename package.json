@@ -1,0 +1,32 @@
+{
+  "name": "mytool",
+  "version": "1.0.0",
+  "description": "JavaScript 函数",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lvyulong/myTool.git"
+  },
+  "keywords": [
+    "myTool",
+    "JavaScript"
+  ],
+  "author": "lvyl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lvyulong/myTool/issues"
+  },
+  "homepage": "https://github.com/lvyulong/myTool#readme",
+  "devDependencies": {
+    "@babel/core": "^7.15.8",
+    "@babel/preset-env": "^7.15.8",
+    "babel-loader": "^8.2.2",
+    "webpack": "^5.58.2",
+    "webpack-cli": "^4.9.0"
+  },
+  "dependencies": {}
+}
