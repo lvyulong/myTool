@@ -1,6 +1,6 @@
 {
-  "name": "mytool",
-  "version": "1.0.1",
+  "name": "myTool",
+  "version": "1.0.0",
   "description": "JavaScript 函数",
   "main": "index.js",
   "scripts": {
