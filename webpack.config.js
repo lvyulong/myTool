@@ -7,7 +7,7 @@ const webpackBaseConfig = {
     output: {
         // 指定js文件输出位置
         path: path.resolve(__dirname, './dist'),
-        filename: 'myTool.min.js',
+        filename: 'sfbtool.min.js',
     },
     plugins: [
 

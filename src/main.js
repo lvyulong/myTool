@@ -5,7 +5,7 @@ let files = require.context('./utils', false, /\.js/);
 let modules = parseModules(files);
 
 (function () {
-    window.myTool = {
+    window.sfbtool = {
       ...modules
     };
 }(window));
