@@ -1,5 +1,5 @@
 {
-  "name": "myTool",
+  "name": "sfbtool",
   "version": "1.0.0",
   "description": "JavaScript 函数",
   "main": "index.js",
@@ -9,18 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lvyulong/myTool.git"
+    "url": "git+https://github.com/lvyulong/sfbtool.git"
   },
   "keywords": [
-    "myTool",
+    "sfbtool",
     "JavaScript"
   ],
   "author": "lvyl",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lvyulong/myTool/issues"
+    "url": "https://github.com/lvyulong/sfbtool/issues"
   },
-  "homepage": "https://github.com/lvyulong/myTool#readme",
+  "homepage": "https://github.com/lvyulong/sfbtool#readme",
   "devDependencies": {
     "@babel/core": "^7.15.8",
     "@babel/preset-env": "^7.15.8",
